@@ -27,6 +27,9 @@ This is just the beginning of my coding odyssey. Feel free to explore the depths
 - ⚡ Fun fact: When I'm not coding, you might find me lost in the pixelated worlds of my own creation (or someone else's!). 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mistaluai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mistaluai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mistaluai/)  
+[<img src='https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif' alt='github' height='40' width='40'> ](https://github.com/mistaluai)
+[<img src='https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif' alt='Discord' height='40' width='40'> ](http://discord.com/users/894746392675909632)
+[<img src='https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif' alt='linkedin' height='40' width='40'>](https://www.linkedin.com/in/mistaluai/) 
+[<img src='https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif' alt='instagram' height='40' width='40'>](https://www.instagram.com/mistaluai/)  
 
 
