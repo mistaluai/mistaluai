@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,golang,python,cs,unity,raspberrypi,git,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,python,cs,unity,raspberrypi,git,gtk,docker,bash)](https://skillicons.dev)
 
 [<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxNTI1ODMsIm5iZiI6MTcwOTE1MjI4MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDIwMzEyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkMjQxYWJjNzkzZmFhYTQ3YjA1NzczMWEyNDRiOGZjNTk4NzM5YmU2YjhjODczYmU1N2U5ZWVkMTNmNDE0NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-Kwktxxewv3GVNCIXChkeOHV7YC0BmpgG-2DbFGkaBU" width='80'>Statistics](https://github.com/mistaluai/mistaluai/blob/main/stats.md)
 
