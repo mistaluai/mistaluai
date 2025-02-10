@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<img src="https://github.com/mistaluai/mistaluai/blob/main/output.gif" width="700">
+</p>
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark" />
 </p>  
 
