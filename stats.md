@@ -14,3 +14,7 @@
 ### *Slow and Steady Wins the Race*
 ##### At My Own Pace on GitHub
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mistaluai)
+
+
+##### My LeetCode 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mistaluai)](https://github.com/KnlnKS/leetcode-stats)
