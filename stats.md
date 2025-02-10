@@ -17,4 +17,4 @@
 
 
 ##### My LeetCode 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mistaluai)](https://github.com/KnlnKS/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mistaluai)](https://leetcode.com/mistaluai)
