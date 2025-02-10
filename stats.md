@@ -17,4 +17,6 @@
 
 
 ##### My LeetCode 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mistaluai)](https://leetcode.com/mistaluai)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mistaluai?theme=wtf&font=Roboto&ext=heatmap&border=0&radius=20&hide=ranking)
+
