@@ -8,4 +8,13 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark" />
+</p>  
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mistaluai?theme=dark&font=Roboto&ext=heatmap&border=0&radius=20&hide=ranking" alt="Leetcode Stats">
 </p>
+
+<div align="center">
+  <quote>professional EASY problems solver</quote>
+</div>
