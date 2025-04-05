@@ -1,24 +1,20 @@
 <p align="center">
-<img src="./240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="300">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark" />
+  <img src="./240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="250">
 </p>
 
 <p align="center">
-  <em>am into deep learning n stuff</em>
+  <em>am into deep learning</em>
+</br>
+  <em>i talk less i do more, scroll down, see my projects</em>
 </p>
 
-<p align="center">
-<img src="https://github.com/mistaluai/mistaluai/blob/main/output.gif" width="700">
+<p >
+ <h2 align="center">Projects</h2>
+  <a href src='https://github.com/mistaluai/HierarchicalLSTMGroupRec'>Paper Implementation: A Hierarchical Deep Temporal Model for Group Activity Recognition (CVPR Paper arXiv:1511.06040)</a>
+</br>
+   <a href src='https://github.com/mistaluai/StyleTransfer'>Paper Implementation: A Neural Algorithm of Artistic Style (arXiv:1508.06576)</a>
+   </br>
+   <a href src='https://github.com/mistaluai/DeepSee'>NMA Project: DeepSee (AI-Generated Images Detector)</a>
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark" />
-</p>  
-
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mistaluai?theme=dark&font=Roboto&ext=heatmap&border=0&radius=20&hide=ranking" alt="Leetcode Stats">
-</p>
-
-<div align="center">
-  <quote>professional EASY problems solver</quote>
-</div>
