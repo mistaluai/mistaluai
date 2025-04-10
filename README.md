@@ -23,6 +23,14 @@
    <li><a href src='https://github.com/mistaluai/DeepSee'>
      NMA Project: DeepSee (AI-Generated Images Detector)
    </a></li>
+
+   <li><a href src=https://github.com/mistaluai/AutoencodersImplementation/tree/master/ConditionalVariationalAutoencoders'>
+     Paper Implementation: Semi-supervised Learning with Deep Generative Models (arXiv:1406.5298v2)
+   </a></li>
+
+   <li><a href src=https://github.com/mistaluai/AutoencodersImplementation/tree/master/VariationalAutoencoder'>
+     Paper Implementation: Auto-Encoding Variational Bayes (arXiv:1312.6114v11)
+   </a></li>
    
 </ul>
 
