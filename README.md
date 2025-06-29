@@ -15,6 +15,14 @@
   <li><a href="https://github.com/mistaluai/HierarchicalLSTMGroupRec">
     Paper Implementation: A Hierarchical Deep Temporal Model for Group Activity Recognition (CVPR Paper arXiv:1511.06040)
   </a></li>
+
+  <li><a href="https://github.com/mistaluai/KolmogorovArnold-Nets">
+    Paper Implementation: KAN: Kolmogorov-Arnold Networks (arXiv:2404.19756)
+  </a></li>
+  
+  <li><a href="">
+    Launchpadai's Fellowship: Multi-Agent Clinical Scribe System (Closed Source for now)
+  </a></li>
   
   <li><a href="https://github.com/mistaluai/StyleTransfer">
     Paper Implementation: A Neural Algorithm of Artistic Style (arXiv:1508.06576)
