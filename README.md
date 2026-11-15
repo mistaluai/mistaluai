@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistaluai&theme=github_dark" />
   <img src="./240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="250">
-</p>
+</p> -->
 
 <p align="center">
   <em>am into deep learning</em>
